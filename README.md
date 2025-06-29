@@ -39,29 +39,29 @@ Built using Java and Android Studio. Clean, fast, and perfect for broke develope
 2. Open in Android Studio
 3. Click ▶️ to run on emulator or physical device
 
-📦 APK Download
+## 📦 APK Download
 Coming soon...
 
 
-🧠 Future Features (coming maybe 😎)
-Category tagging (Food, Travel, etc.)
+## 🧠 Future Features (coming maybe 😎)
+-Category tagging (Food, Travel, etc.)
 
-Monthly budget + alert
+- Monthly budget + alert
 
-Graphs / Pie charts of spending
+-Graphs / Pie charts of spending
 
-CSV export
+-CSV export
 
-Room DB for saving data locally
+-Room DB for saving data locally
 
-Google Drive backup
+-Google Drive backup
 
 
-✍️ Author
+## ✍️ Author
 Kartik Singh
-📧 [14kartiksingh@gmail.com]
-🌐 mistercoderz.com
+-📧 [14kartiksingh@gmail.com]
+-🌐 mistercoderz.com
 
 
-🧠 License
+## 🧠 License
 Free to use, modify, share. Just don’t sell it as-is and claim you're the next Steve Jobs 🧃🍏
