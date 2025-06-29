@@ -44,23 +44,23 @@ Coming soon...
 
 
 ## 🧠 Future Features (coming maybe 😎)
--Category tagging (Food, Travel, etc.)
+- Category tagging (Food, Travel, etc.)
 
 - Monthly budget + alert
 
--Graphs / Pie charts of spending
+- Graphs / Pie charts of spending
 
--CSV export
+- CSV export
 
--Room DB for saving data locally
+- Room DB for saving data locally
 
--Google Drive backup
+- Google Drive backup
 
 
 ## ✍️ Author
 Kartik Singh
--📧 [14kartiksingh@gmail.com]
--🌐 mistercoderz.com
+-  📧 [14kartiksingh@gmail.com]
+- 🌐 mistercoderz.com
 
 
 ## 🧠 License
